@@ -35,11 +35,8 @@ Satish is an experienced SDET with a passion for building and testing high-quali
 
 ## Contact Me
 
-- Website: yourwebsite.com
-- Email: youremail@example.com
-- LinkedIn: [linkedin.com/in/yourname](linkedin.com/in/yourname)
-- GitHub: github.com/sdet-user
-- Twitter: [twitter.com/yourname](twitter.com/yourname)
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto"
+width="20"/> [LinkedIn()]
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
