@@ -6,7 +6,10 @@
 
 ## About Me
 
-Satish is an experienced SDET with a passion for building and testing high-quality software.
+I'm a hardworking and highly autonomous individual with a deep passion for Quality Assurance and Engineering with over 7 years of experience 💪
+I've worked for various companies and startups; with products ranging from small to large production systems in e-commerce, IaaS and Insurance domain projects 💫
+I can work solo or as part of a team, both are enjoyable. I've also had the privilege of leading a small QA team that worked on various startups, where I gained experience in leading and mentoring 🤝
+I have expertise in testing methodologies and quality assurance processes I drive excellence by implementing robust strategies and fostering collaborative environments. Committed to delivering top-notch software solutions that exceed expectations and enhance user experiences.
 
 ## Skills
 
@@ -19,24 +22,19 @@ Satish is an experienced SDET with a passion for building and testing high-quali
 
 ## Projects
 
-### Project 1
+### Project 1 : Hyperstack
 
-- Description: [Provide a brief description of the project]
-- Technologies: [List the technologies used in the project]
-- Repository: [Link to the repository]
-- Demo: [Link to a live demo of the project]
+This was my first big opportunity to work as a QA Engineer. My main responsibility was to test all incoming Web App changes from the Platform team.
+This meant building, implementing and integrating a testing process that was lean and lightweight, but robust enough to expand as the business grew.
+During my time here I implemented the use of TestRail for test case management and streamlining the QA Process
 
-### Project 2
-
-- Description: [Provide a brief description of the project]
-- Technologies: [List the technologies used in the project]
-- Repository: [Link to the repository]
-- Demo: [Link to a live demo of the project]
+### Project 2 : MobilePermissions.com﻿
+This is the website to find teachers for different subjects by student. One can register as a tutor or student. It is also used ti book different types of courses. My main task was to test the site from both the tutor and student end and check the workflow.
 
 ## Contact Me
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto"
-width="20"/> [LinkedIn()]
+width="20"/> [LinkedIn(www.linkedin.com/in/satish-prasad-qa)]
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
