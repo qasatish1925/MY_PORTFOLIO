@@ -33,7 +33,7 @@ This is the website to find teachers for different subjects by student. One can 
 
 ## Contact Me
 
-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto"
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href= "www.linkedin.com/in/satish-prasad-qa" alt="me in linkedin" height="auto"
 width="20"/> [www.linkedin.com/in/satish-prasad-qa]
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
