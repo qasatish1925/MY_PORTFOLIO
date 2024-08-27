@@ -2,7 +2,7 @@
 
 # [Satish Kr Prasad]
 
-<img src="yourprofilepic.jpg" width="200" height="200">
+<img src="profile-pic (4).png" width="200" height="200">
 
 ## About Me
 
