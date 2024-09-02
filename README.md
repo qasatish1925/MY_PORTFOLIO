@@ -4,21 +4,21 @@
 
 <img src="profile-pic (4).png" width="200" height="200">
 
-## About Me
+# 💫 About Me:
+About Me<br>I'm a hardworking and highly autonomous individual with a deep passion for Quality Assurance and Engineering with over 7 years of experience 💪 I've worked for various companies and startups; with products ranging from small to large production systems in e-commerce, IaaS and Insurance domain projects 💫 I can work solo or as part of a team, both are enjoyable. I've also had the privilege of leading a small QA team that worked on various startups, where I gained experience in leading and mentoring 🤝 I have expertise in testing methodologies and quality assurance processes I drive excellence by implementing robust strategies and fostering collaborative environments. Committed to delivering top-notch software solutions that exceed expectations and enhance user experiences.<br><br>Skills<br>Test Automation: Selenium WebDriver, Appium, JUnit, TestNG<br>Programming Languages: Java, Python, C#<br>Web Technologies: HTML, CSS, JavaScript, AngularJS, NodeJS<br>Defect Tracking Tools: JIRA, HP Quality Center<br>Build Tools: ANT, Maven<br>CI/CD Tools: Jenkins, Travis CI
 
-I'm a hardworking and highly autonomous individual with a deep passion for Quality Assurance and Engineering with over 7 years of experience 💪
-I've worked for various companies and startups; with products ranging from small to large production systems in e-commerce, IaaS and Insurance domain projects 💫
-I can work solo or as part of a team, both are enjoyable. I've also had the privilege of leading a small QA team that worked on various startups, where I gained experience in leading and mentoring 🤝
-I have expertise in testing methodologies and quality assurance processes I drive excellence by implementing robust strategies and fostering collaborative environments. Committed to delivering top-notch software solutions that exceed expectations and enhance user experiences.
 
-## Skills
+# 💻 Tech Stack:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qasatish1925&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qasatish1925&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qasatish1925&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Test Automation: Selenium WebDriver, Appium, JUnit, TestNG
-- Programming Languages: Java, Python, C#
-- Web Technologies: HTML, CSS, JavaScript, AngularJS, NodeJS
-- Defect Tracking Tools: JIRA, HP Quality Center
-- Build Tools: ANT, Maven
-- CI/CD Tools: Jenkins, Travis CI
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=qasatish1925&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Projects
 
